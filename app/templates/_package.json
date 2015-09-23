@@ -1,0 +1,22 @@
+{
+  "name": "<%=_.slugify(title)%>",
+  "version": "0.1.0",
+  "dependencies": {
+
+    },
+  "browserify": {
+    "transform": [
+      [
+        "babelify",
+        {
+          "blacklist": [
+            "regenerator"
+          ]
+        }
+      ],
+      "uglifyify"
+    ]
+  },  
+  "devDependencies": {
+  }
+}

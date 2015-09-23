@@ -1,0 +1,16 @@
+{
+  "name": "generator-static",
+  "version": "0.1.0",
+  "description": "A Static Site Generator",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.17.3",
+    "shelljs": "^0.4.0"
+  }
+}
