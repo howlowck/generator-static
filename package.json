@@ -1,7 +1,11 @@
 {
   "name": "generator-static-es6",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Static Site Generator",
+  "repository" : {
+    "type": "git",
+    "url" : "https://github.com/howlowck/generator-static"
+  },
   "files": [
     "app",
     "router"
