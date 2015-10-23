@@ -1,6 +1,6 @@
 {
-  "name": "generator-static",
-  "version": "0.1.0",
+  "name": "generator-static-es6",
+  "version": "0.1.1",
   "description": "A Static Site Generator",
   "files": [
     "app",
@@ -10,7 +10,7 @@
     "yeoman-generator"
   ],
   "dependencies": {
-    "yeoman-generator": "^0.17.3",
-    "shelljs": "^0.4.0"
+    "yeoman-generator": "^0.21.1",
+    "shelljs": "^0.5.3"
   }
 }
